@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
-    <TargetFramework>2.1.1</TargetFramework>
+    <TargetFramework>netcoreapp2.1.1</TargetFramework>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <SelfContained>false</SelfContained>
     <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
